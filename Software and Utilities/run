@@ -1,1 +1,0 @@
-sudo g++ -g main.cpp Dataset.cpp Point.cpp Patch.cpp Input.cpp Output.cpp StartScr.cpp Sites.cpp Prediction.cpp Display.cpp MathFunctions.cpp DrawFunctions.cpp Layer.cpp Raster.cpp RandomSites.cpp -o main -lSDL2 -lSDL2_image -std=gnu++0x
