@@ -3,7 +3,7 @@
 
 ### Details
 
-The resources provided here are currently incomplete. Further documentation (including instructions), and updated software for easier user deployment will be completed by mid-June 2024.
+The resources provided here are currently incomplete. Further documentation (including instructions), and updated software for easier user deployment will be completed by mid-July 2024.
 
 ## Web Portal Under Development
 
